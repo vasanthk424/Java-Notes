@@ -1,0 +1,49 @@
+JDK
+[ java libraries and java virtual machine]
+
+They are two public and protected. and then objects like static and return value like void and then main(String args[])
+
+                            public static void main(String[] args) 
+                        {  
+                             Point p1 = new Point();
+
+
+classapth = path where jdk stores.
+
+Everything in Java is associated with classes and objects, along with its attributes and methods. 
+For example: in real life, a car is an object. The car has attributes, such as weight and color, and methods, such as drive and brake. 
+A Class is like an object constructor, or a "blueprint" for creating objects.
+
+validations :
+
+we need to specify the datatype for sure before using it.
+number 0 to 9 ,#,! these are not allowed starting variables like a#,1q are invalid.
+use CAMEL CASE and uppercases for declaring a variable like 	 int MAX_AGE = 200; and noOfPlayer  = 10;  for easy understanding
+
+variables;
+int for numbers,float,char for characters ,long for example 14f in float , f represents floating point.
+
+If we want ot access non primritable types we uses new point().
+
+when we create a class first letter should be captical
+
+Autoboixng;
+keeping an variable(int) in object(Integer) 
+  and 
+auto-unboxing is vice-versa
+
+A WRAPPER CLASS is a class whose object wraps or contains primitive data types. When we create an object to a wrapper class,
+it contains a field and in this field, we can store primitive data types. 
+In other words, we can wrap a primitive value into a wrapper class object.
+
+Type of conversion in java 
+1.Widening or implict function;
+
+byte - short - int,char - long - float - double
+
+2.Narrowing;
+
+
+
+
+
