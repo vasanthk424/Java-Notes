@@ -42,7 +42,7 @@ Type of conversion in java
 byte - short - int,char - long - float - double
 
 2.Narrowing;
-
+ 
 
 
 
