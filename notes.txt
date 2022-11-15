@@ -40,9 +40,42 @@ Type of conversion in java
 1.Widening or implict function;
 
 byte - short - int,char - long - float - double
+INPUT :
 
-2.Narrowing;
- 
+BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+(System.in) is input of two bytes (character contains two bytes) and InputStreamReader reads the character and BufferedReader reads the complete line. [readLine()]
+
+Scanner sr = newline Scanner(System.in);
+int x = sr.nextint();
+float y = sr.nextfloat;
+
+
+import java.io.*; //BufferReader
+import java.util.*; //scanner
+import to java folder into folder io for all(*) classes.
+
+OUTPUT :
+System.out.println() prints in line by line order.
+System.out.print() prints normal.
+System.out.format() for floating point numbers ,date and time .
+
+placeholders begin with percent sign like %d for integers ,%f is for float ,%s for string.
+int x = 100;
+System.out.format("Value of x %d\n", x);   ['\n'(line feed) arrange in line order]
+System.out.format("Value of x %5.2d\n", x); [5 total indicates five charcters eg:    3.14 & .2 indicates after decimal characters.]
+
+Arthematic operaters :
+x %= y
+
+&& , || , ! (or) binaray operaters
+
+length() and equals() operators.
+
+
+
+
+
+
 
 
 
