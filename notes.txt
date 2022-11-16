@@ -116,6 +116,14 @@ Break as we are rached to the break condtion the loop doesnt run after it.
 Function in java :
 Public static void main(String [] args)  in this main is an method of java console and like this,
 Public static void fun()  in this fun is an method , we call the method in main method so we can the o/p in where btwn we placed the method.
+STACK Is an method to help methods to arrange the functions in order.
+
+when code runs main into sub method then it stops over there and adn goes into sub method fn which executes and cm back to sub method and executes and main o/p ends.
+
+Passing parametrs or returning parameters :
+
+Primitive have references and non primitive  didnt have refernces which are independent. 
+
 
 
 
