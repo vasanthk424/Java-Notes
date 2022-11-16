@@ -76,6 +76,32 @@ Loops :
 if(condition)
 {  ;} else {  ;}
 
+from exit from a code after contion we use return(end the running of code); like
+if(n<0){
+println invalid
+return;
+}
+
+Nested if else loop.
+
+char move = sc.next().charAt(0);
+int n = sc.nextInt();
+
+Switch statment
+
+ switch(abc)
+	    {
+	        case "L" : x++; break;
+	        case "U" : x-- ; break;
+	        default : System.out.println("Invalid");
+       }
+       
+       
+
+
+
+
+
 
 
 
