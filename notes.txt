@@ -91,11 +91,13 @@ Switch statment
 
  switch(abc)
 	    {
-	        case "L" : x++; break;
-	        case "U" : x-- ; break;
+	        case 'L' : x++; break;
+	        case 'U' : x-- ; break;
 	        default : System.out.println("Invalid");
-       }
-       
+            }
+for loop :
+for(Intiliazation;Condtion check; Loop variable change);
+
        
 
 
