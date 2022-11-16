@@ -112,6 +112,13 @@ Break and Condition (Generally these are used with if condition only).
 
 Continue means skip the conditon line doest print whatever  and starts with nxt iteration .
 Break as we are rached to the break condtion the loop doesnt run after it.
+
+Function in java :
+Public static void main(String [] args)  in this main is an method of java console and like this,
+Public static void fun()  in this fun is an method , we call the method in main method so we can the o/p in where btwn we placed the method.
+
+
+
  
 
        
