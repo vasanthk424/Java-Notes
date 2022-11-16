@@ -98,6 +98,22 @@ Switch statment
 for loop :
 for(Intiliazation;Condtion check; Loop variable change);
 
+while(Condition)
+{
+}
+dont keep semicolum after while(condition) it runs infinite loops like where(condtion){ ;} or where(condtion);
+
+do - while excuetes for one time atleast whether it is true or false , while conditon executes if the conditon is true.
+do
+{
+}while(conditon) 
+
+Break and Condition (Generally these are used with if condition only).
+
+Continue means skip the conditon line doest print whatever  and starts with nxt iteration .
+Break as we are rached to the break condtion the loop doesnt run after it.
+ 
+
        
 
 
