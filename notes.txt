@@ -1,7 +1,7 @@
 JDK
 [ java libraries and java virtual machine]
 
-They are two public and protected. and then objects like static and return value like void and then main(String args[])
+They are two "public and protected". and then objects like static and return value like void and then main(String args[])
 
                             public static void main(String[] args) 
                         {  
@@ -25,7 +25,7 @@ int for numbers,float,char for characters ,long for example 14f in float , f rep
 
 If we want ot access non primritable types we uses new point().
 
-when we create a class first letter should be captical
+when we create a class first letter should be captical.
 
 Autoboixng;
 keeping an variable(int) in object(Integer) 
@@ -70,6 +70,13 @@ x %= y
 && , || , ! (or) binaray operaters
 
 length() and equals() operators.
+
+Loops :
+
+if(condition)
+{  ;} else {  ;}
+
+
 
 
 
