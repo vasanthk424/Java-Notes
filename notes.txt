@@ -165,7 +165,9 @@ public class Gfg
 This Reference :
 This reference is a keyword in java used for this object,it will help to refer to particuluar object of the class and prints the requried one.
 when we create a class and having diff types of objects then these objects have they have the own copies of data in classes.
- 
+
+Static members  : 
+
  
  
 
