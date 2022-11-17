@@ -10,6 +10,8 @@ They are two "public and protected". and then objects like static and return val
 
 classapth = path where jdk stores.
 
+class is an like table ,object is like attributies 
+
 Everything in Java is associated with classes and objects, along with its attributes and methods. 
 For example: in real life, a car is an object. The car has attributes, such as weight and color, and methods, such as drive and brake. 
 A Class is like an object constructor, or a "blueprint" for creating objects.
@@ -122,7 +124,48 @@ when code runs main into sub method then it stops over there and adn goes into s
 
 Passing parametrs or returning parameters :
 
-Primitive have references and non primitive  didnt have refernces which are independent. 
+Primitive have references and non primitive  didnt have refernces which are independent.  
+
+Applications of Functions :
+1. Avoid COde Redundancy and Ease Maintianence
+2. Avoid variable names Collisions 
+
+Procedual Programming : we have functions that are called in other functions each other.
+
+The function which has same name as the class called as Constructors .these have any return types .they have the same name as the class type.
+to intialize the object that we used as a class called as construct and to use the data types of that class in this we need constructor.
+The constrcuter that we used in the other class in object ,the values in the new object are aslo copied from constructer to the used new class.
+
+class Point
+{
+    int x, y;
+    Point(int a, int b)
+    {
+        x = a;
+        y = b;
+    }
+    void print()
+    {
+        System.out.println("x = " + x + ", y = "+y);
+    }
+}
+public class Gfg
+{ 
+    public static void main(String[] args)throws IOException 
+    { 
+      Point p = new Point(10, 20);
+      p.print();
+    } 
+} 
+
+Object Oreiented programming :
+
+
+
+
+
+
+
 
 
 
