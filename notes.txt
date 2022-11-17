@@ -135,6 +135,7 @@ Procedual Programming : we have functions that are called in other functions eac
 The function which has same name as the class called as Constructors .these have any return types .they have the same name as the class type.
 to intialize the object that we used as a class called as construct and to use the data types of that class in this we need constructor.
 The constrcuter that we used in the other class in object ,the values in the new object are aslo copied from constructer to the used new class.
+The default constructer is when we didnt given any data type in constrcuter then complier gives o/p as zero zero .
 
 class Point
 {
@@ -158,7 +159,11 @@ public class Gfg
     } 
 } 
 
-Object Oreiented programming :
+This Reference :
+This reference is a keyword in java used for this object,it will help to refer to particuluar object of the class and prints the requried one.
+ when we create a class and having diff types of objects then these objects have they have the own copies of data in classes.
+ 
+ 
 
 
 
