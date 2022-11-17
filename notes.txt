@@ -129,6 +129,9 @@ Primitive have references and non primitive  didnt have refernces which are inde
 Applications of Functions :
 1. Avoid COde Redundancy and Ease Maintianence
 2. Avoid variable names Collisions 
+3.takeinput()
+ processdata()
+ output()
 
 Procedual Programming : we have functions that are called in other functions each other.
 
@@ -161,7 +164,8 @@ public class Gfg
 
 This Reference :
 This reference is a keyword in java used for this object,it will help to refer to particuluar object of the class and prints the requried one.
- when we create a class and having diff types of objects then these objects have they have the own copies of data in classes.
+when we create a class and having diff types of objects then these objects have they have the own copies of data in classes.
+ 
  
  
 
