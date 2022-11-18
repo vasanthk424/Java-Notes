@@ -173,7 +173,12 @@ Private : within the class [we should use the private objects in the same cls on
 defalut : within the pacakge [ pacakge is collection of classes . sp, as giving drfalut we can import it in other class as import.package1.*; ]
 public : anywhere
 
-Final Keyword :
+Final Keyword : using final with variable means its final for the variable we cant assign anything further. theer will be no overreading.
+variable(Local, Instance , class) :
+1.
+
+
+
 
 
 
