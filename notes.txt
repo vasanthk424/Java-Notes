@@ -166,7 +166,16 @@ This Reference :
 This reference is a keyword in java used for this object,it will help to refer to particuluar object of the class and prints the requried one.
 when we create a class and having diff types of objects then these objects have they have the own copies of data in classes.
 
-Static members  : 
+Static members  : We can call the static member any using classs or object . [ static int getplayerCount()]
+
+Class members Access modifiers in java;
+Private : within the class [we should use the private objects in the same cls only or it wont return any value]
+defalut : within the pacakge [ pacakge is collection of classes . sp, as giving drfalut we can import it in other class as import.package1.*; ]
+public : anywhere
+
+Final Keyword :
+
+
 
  
  
