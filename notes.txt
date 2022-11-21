@@ -103,7 +103,7 @@ for(Intiliazation;Condtion check; Loop variable change);
 while(Condition)
 {
 }
-dont keep semicolum after while(condition) it runs infinite loops like where(condtion){ ;} or where(condtion);
+dont keep semicolum after while(condition) it runs infinite loops like [where(condtion){ ;} or where(condtion);]
 
 do - while excuetes for one time atleast whether it is true or false , while conditon executes if the conditon is true.
 do
@@ -170,12 +170,14 @@ Static members  : We can call the static member any using classs or object . [ s
 
 Class members Access modifiers in java;
 Private : within the class [we should use the private objects in the same cls only or it wont return any value]
-defalut : within the pacakge [ pacakge is collection of classes . sp, as giving drfalut we can import it in other class as import.package1.*; ]
-public : anywhere
+defalut : within the pacakge [ pacakge is collection of classes . sp, as giving drfalut we can import it in other class as import.package1.*; ] 
+public : anywhere 
 
-Final Keyword : using final with variable means its final for the variable we cant assign anything further. theer will be no overreading.
-variable(Local, Instance , class) :
-1.
+Final Keyword : using final with variable means its final for the variable we cant assign anything further. theer will be no overreading. 
+variable(Local, Instance , class) : 
+1. final classes and final objects are measn they are final we cannot add childs tp those we get compiler error.
+
+
 
 
 
