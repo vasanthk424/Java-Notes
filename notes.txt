@@ -177,6 +177,12 @@ Final Keyword : using final with variable means its final for the variable we ca
 variable(Local, Instance , class) : 
 1. final classes and final objects are measn they are final we cannot add childs tp those we get compiler error.
 
+EXECPTION Handling : 
+1. Throwing execption (which fn can't handle)to main [throws IOExecption].
+2. Hierarchy is Object  - Throwable - Exception - IOException or SQLException or ClassNotFoundException or FileNotFoundExcpetion.
+
+
+
 
 
 
