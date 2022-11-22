@@ -181,6 +181,12 @@ EXECPTION Handling :
 1. Throwing execption (which fn can't handle)to main [throws IOExecption].
 2. Hierarchy is Object  - Throwable - Exception - IOException or SQLException or ClassNotFoundException or FileNotFoundExcpetion.
 
+printStackTrace () :
+
+The printStackTrace() method in Java is a tool used to handle exceptions and errors. It is a method of Java's throwable class which prints the throwable along with other details like the line number and class name where the exception occurred. printStackTrace() is very useful in diagnosing exceptions.
+
+
+
 
 
 
