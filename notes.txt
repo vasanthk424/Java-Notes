@@ -198,6 +198,31 @@ catch(ArithmeticException ex)  //ex is storing the 'ArithmeticException' value
 
                  ex.printStackTrace(); //its a comppulsary fn to trace the errror and to print.
            }
+   static void main methodD() throws IOException
+   {	
+   	int a=10,b= 0,c;
+	
+	Scanner in = new Scanner(System.in);
+	
+	int b = in.Int();
+	
+	if{}
+	else{}
+	System.out.println("Working");
+	}
+	
+Its better to keep the hierarchial expections at end of the cacth blocks like
+catch(Excpetion ex)
+{
+}
+A try can have a multilpe catch blocks and we should keep the exceptions in catch block as per the exceptions hierarchy.
+
+
+   
+   
+   }
+	   
+  
 
 
 
