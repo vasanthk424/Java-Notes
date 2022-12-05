@@ -216,11 +216,25 @@ catch(Excpetion ex)
 {
 }
 A try can have a multilpe catch blocks and we should keep the exceptions in catch block as per the exceptions hierarchy.
+}
 
+05/12/22 :
 
-   
-   
-   }
+user defined class is combination of constrcuter and exception in class.
+
+Taking inputs in array
+[
+ Scanner s = new Scanner(system.in);  // to read the user value.
+ int n = s.nextInt();		// to read and take it.
+ int [] arr = new Int[n];   //it takes the value of n which is given by user.
+ 
+ if we take n = 6; arr contains  0 1 2 3 4 5 as indexes 
+ if we want to store the value of n enetered in the first index which is 0 then;
+ 
+ int arr = new int[];
+  arr [0] = n;
+ 
+
 	   
   
 
